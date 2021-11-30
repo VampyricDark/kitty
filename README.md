@@ -5,7 +5,7 @@
 ```
 wget "https://raw.githubusercontent.com/vampyricdark/kitty/VampyricDark.conf" -P ~/.config/kitty/
 cd ~/.config/kitty
-ln -s ./kitty-themes/themes/Floraverse.conf ~/.config/kitty/theme.conf
+ln -s ./VampyricDark.conf ~/.config/kitty/theme.conf
 ```
 
 Add this line to your ``kitty.conf`` configuration file:
