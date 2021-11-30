@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-wget "https://raw.githubusercontent.com/vampyricdark/kitty/VampyricDark.conf" -P ~/.config/kitty/
+wget "https://raw.githubusercontent.com/VampyricDark/kitty/main/VampyricDark.conf" -P ~/.config/kitty/
 cd ~/.config/kitty
 ln -s ./VampyricDark.conf ~/.config/kitty/theme.conf
 ```
