@@ -9,11 +9,11 @@ ln -s ./VampyricDark.conf ~/.config/kitty/theme.conf
 ```
 
 Add this line to your ``kitty.conf`` configuration file:
-
-``include ./theme.conf``
+```include ./theme.conf```
 
 ## Team
 
 Theme maintained by:
 [gersonwahyudi](https://github.com/gersonwahyudi)
+
 [RaphGL](https://github.com/RaphGL)
