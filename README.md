@@ -1,4 +1,4 @@
-# Vampyric [kitty](https://https://sw.kovidgoyal.net/kitty/)
+# Vampyric [kitty](https://sw.kovidgoyal.net/kitty/)
 > A theme for kitty terminal 
 
 ## Installation
@@ -13,5 +13,10 @@ Add this line to your ``kitty.conf`` configuration file:
 
 ## Team
 
-Theme maintained by:
+This theme maintained by:
+
 [gersonwahyudi](https://github.com/gersonwahyudi), [RaphGL](https://github.com/RaphGL)
+
+## License
+
+Distributed under MIT License. See `LICENSE` for more information.
