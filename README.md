@@ -14,6 +14,4 @@ Add this line to your ``kitty.conf`` configuration file:
 ## Team
 
 Theme maintained by:
-[gersonwahyudi](https://github.com/gersonwahyudi)
-
-[RaphGL](https://github.com/RaphGL)
+[gersonwahyudi](https://github.com/gersonwahyudi), [RaphGL](https://github.com/RaphGL)
