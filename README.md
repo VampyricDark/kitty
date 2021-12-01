@@ -1,5 +1,7 @@
 # Vampyric [kitty](https://https://sw.kovidgoyal.net/kitty/)
-> A theme for [kitty terminal](https://github.com/kovidgoyal/kitty) 
+> A theme for kitty terminal 
+
+![Screenshot](./screenshot.png)
 
 ## Installation
 ```
@@ -9,15 +11,11 @@ ln -s ./VampyricDark.conf ~/.config/kitty/theme.conf
 ```
 
 Add this line to your ``kitty.conf`` configuration file:
-```include ./theme.conf```
+
+``include ./theme.conf``
 
 ## Team
 
 Theme maintained by:
-[![gersonwahyudi](https://github.com/gersonwahyudi.png?size=100)](https://github.com/gersonwahyudi) |
---- |
-[gersonwahyudi](https://github.com/gersonwahyudi) |
-
-## License
-
-Distributed under MIT License. See `LICENSE` for more information.
+[gersonwahyudi](https://github.com/gersonwahyudi)
+[RaphGL](https://github.com/RaphGL)
